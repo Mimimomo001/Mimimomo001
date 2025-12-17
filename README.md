@@ -31,7 +31,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimimomo001&layout=donut)](https://github.com/Mimimomo001/github-readme-stats)
   
 
 
