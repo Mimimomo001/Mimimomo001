@@ -2,7 +2,7 @@
 <h3 align='center'>
   🌸 I’m currently working on learning about my endless interests.
 </h3>
-## About me 📖
+About me 
 <table>
 <tr>
   <td valign="center">    
