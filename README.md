@@ -1,6 +1,6 @@
 <h1 align = "center" > Hi there 👋, I'm Mim! 👾</h1>
 <h3 align='center'>
-  🔭 I’m currently working on learning about my endless interests.
+  🌸 I’m currently working on learning about my endless interests.
 </h3>
 ## About me 📖
 <table>
@@ -8,7 +8,8 @@
   <td valign="center">    
     <ul>
       <li>🎓<b>B.Sc. in Computer Science & Engineering</b></li>
-      <li>🌱 Interested in <b>Artificial Intelligence, Computer Vision, Machine Learning and Deep Learning</b></li>
+      <li>💻 Interested in <b>Artificial Intelligence, Computer Vision, Machine Learning and Deep Learning</b></li>
+      <li>🎼 I love the world of technology, music and video games 🎮</b></li>
     </ul>    
     
 </table>
